@@ -1,7 +1,8 @@
 """
-
+1335. Minimum Difficulty of a Job Schedule
 """
-from collections import List
+from typing import List
+
 class Solution:
     def minDifficulty(self, jobDifficulty: List[int], d: int) -> int:
         if d > len(jobDifficulty):
@@ -25,4 +26,9 @@ class Solution:
             cache[(idx, columnValue, remainingDays)] = res
             return res
 
-        return schedule(0, jobDifficulty[0], d)
+        return schedule(0, jobDifficulty[0], d)  
+    
+## Check solution
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.minDifficulty([6,5,4,3,2,1], 2))
