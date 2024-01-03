@@ -1,5 +1,4 @@
-# LeetCode 🧠💻
-[Profile](https://leetcode.com/apayeras/)
+# [LeetCode](https://leetcode.com/apayeras/) 🧠💻
 
 A repository to keep track and master algorithmic problem solving on LeetCode! 
 
