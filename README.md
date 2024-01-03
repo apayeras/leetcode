@@ -1,6 +1,7 @@
 # LeetCode 🧠💻
+[Profile](https://leetcode.com/apayeras/)
 
-A repository to keep track and master algorithmic problem solving on LeetCode!
+A repository to keep track and master algorithmic problem solving on LeetCode! 
 
 Problems solved:
 | Number | Name | Difficulty | Date | Url |
