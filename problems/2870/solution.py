@@ -1,24 +1,18 @@
 """
 2870. Minimum Number of Operations to Make Array Empty
 """
+from collections import Counter
+import math
 from typing import List
 
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        repeated = {}
+        repeated = Counter(nums)
         operations = 0
-        for num in nums:
-            if num in repeated:
-                repeated[num] += 1
-            else:
-                repeated[num] = 1
-
         for val in repeated.values():
             if val == 1:
                 return -1
-            operations += val // 3
-            if val % 3 != 0:
-                operations += 1
+            operations += math.ceil(val / 3)
         return operations
     
 ## Check solution
