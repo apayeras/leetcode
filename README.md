@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/apayeras/) 🧠💻
 
-A repository to keep track and master algorithmic problem solving on LeetCode! 
+A repository to keep track and master algorithmic problem solving on LeetCode!
 
 Problems solved:
 | Number | Name | Difficulty | Date | Url |
@@ -11,6 +11,7 @@ Problems solved:
 | 455 | Assign Cookies | 🟢 Easy | 01/01/2024 | [LeetCode 445](https://leetcode.com/problems/assign-cookies/description/)
 | 2610 | Convert an Array Into a 2D Array With Conditions | 🟠 Medium | 02/01/2024 | [LeetCode 2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)
 | 2125 | Number of Laser Beams in a Bank | 🟠 Medium | 03/01/2024 | [LeetCode 2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
+| 2870 | Minimum Number of Operations to Make Array Empty | 🟠 Medium | 04/01/2024 | [LeetCode 2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/)
 
 🟢 Easy
 🟠 Medium
