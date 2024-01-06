@@ -21,4 +21,4 @@ class Solution:
 ## Check solution
 if __name__ == "__main__":
     sol = Solution()
-    print(sol.minDifficulty([6,5,4,3,2,1], 2))
+    print(sol.jobScheduling([1,2,3,3], [3,4,5,6], [50,10,40,70]))
