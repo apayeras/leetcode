@@ -13,6 +13,7 @@ Problems solved:
 | 2125 | Number of Laser Beams in a Bank | 🟠 Medium | 03/01/2024 | [LeetCode 2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
 | 2870 | Minimum Number of Operations to Make Array Empty | 🟠 Medium | 04/01/2024 | [LeetCode 2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/)
 | 300 | Longest Increasing Subsequence | 🟠 Medium | 05/01/2024 | [LeetCode 300](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+| 1235 | Maximum Profit in Job Scheduling | 🔴 Hard | 06/01/2024 | [LeetCode 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
 🟢 Easy
 🟠 Medium
