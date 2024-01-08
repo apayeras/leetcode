@@ -15,6 +15,7 @@ Problems solved:
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/description/)| Longest Increasing Subsequence | 🟠 Medium | 05/01/2024
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Maximum Profit in Job Scheduling | 🔴 Hard | 06/01/2024
 | [446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description) | Arithmetic Slices II - Subsequence | 🔴 Hard | 07/01/2024
+| [938](https://leetcode.com/problems/range-sum-of-bst/description/) | Range Sum of BST | 🟢 Easy | 08/01/2024
 
 🟢 Easy
 🟠 Medium
