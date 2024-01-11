@@ -18,6 +18,7 @@ Problems solved:
 | [938](https://leetcode.com/problems/range-sum-of-bst/description/) | Range Sum of BST | 🟢 Easy | 08/01/2024
 | [782](https://leetcode.com/problems/leaf-similar-trees/description/) | Leaf-Similar Trees | 🟢 Easy | 09/01/2024
 | [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description) | Amount of Time for Binary Tree to Be Infected | 🟠 Medium | 10/01/2024
+| [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | Maximum Difference Between Node and Ancestor | 🟠 Medium | 11/01/2024
 
 🟢 Easy
 🟠 Medium
