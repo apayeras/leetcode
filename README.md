@@ -19,6 +19,7 @@ Problems solved:
 | [782](https://leetcode.com/problems/leaf-similar-trees/description/) | Leaf-Similar Trees | 🟢 Easy | 09/01/2024
 | [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description) | Amount of Time for Binary Tree to Be Infected | 🟠 Medium | 10/01/2024
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | Maximum Difference Between Node and Ancestor | 🟠 Medium | 11/01/2024
+| [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/) | Determine if String Halves Are Alike | 🟢 Easy | 12/01/2024
 
 🟢 Easy
 🟠 Medium
