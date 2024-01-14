@@ -21,6 +21,7 @@ Problems solved:
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | Maximum Difference Between Node and Ancestor | 🟠 Medium | 11/01/2024
 | [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/) | Determine if String Halves Are Alike | 🟢 Easy | 12/01/2024
 | [1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/) | Minimum Number of Steps to Make Two Strings Anagram | 🟠 Medium | 13/01/2024
+| [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | Determine if Two Strings Are Close | 🟠 Medium | 14/01/2024
 
 🟢 Easy
 🟠 Medium
