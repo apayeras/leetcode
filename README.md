@@ -23,6 +23,7 @@ Problems solved:
 | [1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/) | Minimum Number of Steps to Make Two Strings Anagram | 🟠 Medium | 13/01/2024
 | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | Determine if Two Strings Are Close | 🟠 Medium | 14/01/2024
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | Find Players With Zero or One Losses | 🟠 Medium | 15/01/2024
+| [380](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Insert Delete GetRandom O(1) | 🟠 Medium | 16/01/2024
 
 🟢 Easy
 🟠 Medium
