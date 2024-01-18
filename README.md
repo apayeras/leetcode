@@ -25,6 +25,7 @@ Problems solved:
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | Find Players With Zero or One Losses | 🟠 Medium | 15/01/2024
 | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Insert Delete GetRandom O(1) | 🟠 Medium | 16/01/2024
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | Unique Number of Occurrences | 🟢 Easy | 17/01/2024
+| [70](https://leetcode.com/problems/climbing-stairs/description/) | Climbing Stairs | 🟢 Easy | 18/01/2024
 
 🟢 Easy
 🟠 Medium
