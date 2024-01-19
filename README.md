@@ -26,6 +26,7 @@ Problems solved:
 | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Insert Delete GetRandom O(1) | 🟠 Medium | 16/01/2024
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | Unique Number of Occurrences | 🟢 Easy | 17/01/2024
 | [70](https://leetcode.com/problems/climbing-stairs/description/) | Climbing Stairs | 🟢 Easy | 18/01/2024
+| [931](https://leetcode.com/problems/minimum-falling-path-sum/description/) | Minimum Falling Path Sum | 🟠 Medium | 19/01/2024
 
 🟢 Easy
 🟠 Medium
