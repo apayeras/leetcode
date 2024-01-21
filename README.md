@@ -28,7 +28,7 @@ Problems solved:
 | [70](https://leetcode.com/problems/climbing-stairs/description/) | Climbing Stairs | 🟢 Easy | 18/01/2024
 | [931](https://leetcode.com/problems/minimum-falling-path-sum/description/) | Minimum Falling Path Sum | 🟠 Medium | 19/01/2024
 | [907](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | Sum of Subarray Minimums | 🟠 Medium | 20/01/2024
-| [198](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | House Robber | 🟠 Medium | 21/01/2024
+| [198](https://leetcode.com/problems/house-robber/description/) | House Robber | 🟠 Medium | 21/01/2024
 
 🟢 Easy
 🟠 Medium
