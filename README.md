@@ -29,6 +29,7 @@ Problems solved:
 | [931](https://leetcode.com/problems/minimum-falling-path-sum/description/) | Minimum Falling Path Sum | 🟠 Medium | 19/01/2024
 | [907](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | Sum of Subarray Minimums | 🟠 Medium | 20/01/2024
 | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | 🟠 Medium | 21/01/2024
+| [645](https://leetcode.com/problems/set-mismatch/description) | Set Mismatch | 🟢 Easy | 22/01/2024
 
 🟢 Easy
 🟠 Medium
