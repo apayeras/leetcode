@@ -32,6 +32,7 @@ Problems solved:
 | [645](https://leetcode.com/problems/set-mismatch/description) | Set Mismatch | 🟢 Easy | 22/01/2024
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) | Maximum Length of a Concatenated String with Unique Characters | 🟠 Medium | 23/01/2024
 | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | Pseudo-Palindromic Paths in a Binary Tree | 🟠 Medium | 24/01/2024
+| [1143](https://leetcode.com/problems/longest-common-subsequence/description/) | Longest Common Subsequence | 🟠 Medium | 25/01/2024
 
 🟢 Easy
 🟠 Medium
