@@ -33,6 +33,7 @@ Problems solved:
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) | Maximum Length of a Concatenated String with Unique Characters | 🟠 Medium | 23/01/2024
 | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | Pseudo-Palindromic Paths in a Binary Tree | 🟠 Medium | 24/01/2024
 | [1143](https://leetcode.com/problems/longest-common-subsequence/description/) | Longest Common Subsequence | 🟠 Medium | 25/01/2024
+| [576](https://leetcode.com/problems/out-of-boundary-paths/description/) | Out of Boundary Paths | 🟠 Medium | 26/01/2024
 
 🟢 Easy
 🟠 Medium
