@@ -35,6 +35,7 @@ Problems solved:
 | [1143](https://leetcode.com/problems/longest-common-subsequence/description/) | Longest Common Subsequence | 🟠 Medium | 25/01/2024
 | [576](https://leetcode.com/problems/out-of-boundary-paths/description/) | Out of Boundary Paths | 🟠 Medium | 26/01/2024
 | [629](https://leetcode.com/problems/k-inverse-pairs-array/description/) | K Inverse Pairs Array | 🔴 Hard | 27/01/2024
+| [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) | Number of Submatrices That Sum to Target | 🔴 Hard | 28/01/2024
 
 🟢 Easy
 🟠 Medium
