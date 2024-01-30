@@ -37,6 +37,7 @@ Problems solved:
 | [629](https://leetcode.com/problems/k-inverse-pairs-array/description/) | K Inverse Pairs Array | 🔴 Hard | 27/01/2024
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) | Number of Submatrices That Sum to Target | 🔴 Hard | 28/01/2024
 | [232](https://leetcode.com/problems/implement-queue-using-stacks/description/) | Implement Queue using Stacks | 🟢 Easy | 29/01/2024
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Evaluate Reverse Polish Notation | 🟠 Medium | 30/01/2024
 
 🟢 Easy
 🟠 Medium
