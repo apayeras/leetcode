@@ -40,6 +40,7 @@ Problems solved:
 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Evaluate Reverse Polish Notation | 🟠 Medium | 30/01/2024
 | [739](https://leetcode.com/problems/daily-temperatures/description/) | Daily Temperatures | 🟠 Medium | 31/01/2024
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | Divide Array Into Arrays With Max Difference | 🟠 Medium | 01/02/2024
+| [1291](https://leetcode.com/problems/sequential-digits/description/) | Sequential Digits | 🟠 Medium | 02/02/2024
 
 🟢 Easy
 🟠 Medium
