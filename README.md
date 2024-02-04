@@ -34,6 +34,15 @@ Problems solved:
 | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | Pseudo-Palindromic Paths in a Binary Tree | 🟠 Medium | 24/01/2024
 | [1143](https://leetcode.com/problems/longest-common-subsequence/description/) | Longest Common Subsequence | 🟠 Medium | 25/01/2024
 | [576](https://leetcode.com/problems/out-of-boundary-paths/description/) | Out of Boundary Paths | 🟠 Medium | 26/01/2024
+| [629](https://leetcode.com/problems/k-inverse-pairs-array/description/) | K Inverse Pairs Array | 🔴 Hard | 27/01/2024
+| [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) | Number of Submatrices That Sum to Target | 🔴 Hard | 28/01/2024
+| [232](https://leetcode.com/problems/implement-queue-using-stacks/description/) | Implement Queue using Stacks | 🟢 Easy | 29/01/2024
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Evaluate Reverse Polish Notation | 🟠 Medium | 30/01/2024
+| [739](https://leetcode.com/problems/daily-temperatures/description/) | Daily Temperatures | 🟠 Medium | 31/01/2024
+| [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | Divide Array Into Arrays With Max Difference | 🟠 Medium | 01/02/2024
+| [1291](https://leetcode.com/problems/sequential-digits/description/) | Sequential Digits | 🟠 Medium | 02/02/2024
+| [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | Partition Array for Maximum Sum | 🟠 Medium | 03/02/2024
+| [76](https://leetcode.com/problems/minimum-window-substring/description/) | Minimum Window Substring | 🔴 Hard | 04/02/2024
 
 🟢 Easy
 🟠 Medium
