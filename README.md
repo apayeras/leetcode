@@ -43,7 +43,7 @@ Problems solved:
 | [1291](https://leetcode.com/problems/sequential-digits/description/) | Sequential Digits | 🟠 Medium | 02/02/2024
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | Partition Array for Maximum Sum | 🟠 Medium | 03/02/2024
 | [76](https://leetcode.com/problems/minimum-window-substring/description/) | Minimum Window Substring | 🔴 Hard | 04/02/2024
-
+| [387](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | First Unique Character in a String | 🟢 Easy | 05/02/2024
 
 🟢 Easy
 🟠 Medium
