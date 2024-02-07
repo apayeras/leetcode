@@ -45,6 +45,7 @@ Problems solved:
 | [76](https://leetcode.com/problems/minimum-window-substring/description/) | Minimum Window Substring | 🔴 Hard | 04/02/2024
 | [387](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | First Unique Character in a String | 🟢 Easy | 05/02/2024
 | [49](https://leetcode.com/problems/group-anagrams/description/) | Group Anagrams | 🟠 Medium | 06/02/2024
+| [451](https://leetcode.com/problems/sort-characters-by-frequency/description/) | Sort Characters By Frequency | 🟠 Medium | 07/02/2024
 
 🟢 Easy
 🟠 Medium
