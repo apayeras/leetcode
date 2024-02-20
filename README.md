@@ -47,6 +47,7 @@ Problems solved:
 | [49](https://leetcode.com/problems/group-anagrams/description/) | Group Anagrams | 🟠 Medium | 06/02/2024
 | [451](https://leetcode.com/problems/sort-characters-by-frequency/description/) | Sort Characters By Frequency | 🟠 Medium | 07/02/2024
 | [279](https://leetcode.com/problems/perfect-squares/description/) | Perfect Squares | 🟠 Medium | 08/02/2024
+| [268](https://leetcode.com/problems/missing-number/description/) | Missing Number | 🟢 Easy | 20/02/2024
 
 🟢 Easy
 🟠 Medium
