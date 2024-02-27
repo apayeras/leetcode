@@ -49,6 +49,7 @@ Problems solved:
 | [279](https://leetcode.com/problems/perfect-squares/description/) | Perfect Squares | 🟠 Medium | 08/02/2024
 | [268](https://leetcode.com/problems/missing-number/description/) | Missing Number | 🟢 Easy | 20/02/2024
 | [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) | Bitwise AND of Numbers Range | 🟠 Medium | 21/02/2024
+| [543](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Diameter of Binary Tree | 🟢 Easy | 27/02/2024
 
 🟢 Easy
 🟠 Medium
